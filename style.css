@@ -1,0 +1,12 @@
+body {
+  background-color: #EBEBEB; }
+
+h2 {
+  text-align: center; }
+
+p {
+  text-align: center; }
+
+.thumbnail > img {
+  width: 100px;
+  height: 100px; }
